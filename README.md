@@ -21,7 +21,9 @@
 列出项目的文件结构和主要组件。例如：
 
 ├── src/                     # 源代码目录
-│   ├── Login              # 主要入口文件
-│   └── Window.java          # 组件目录
+│   ├── Login                # 主要入口文件
+│   ├── Admin                # 管理员文件
+│   └── Customers            # 用户文件
 ├── README.md                # 说明文件
+├── shop_table               # 数据库文件
 └── mysql-connector-j-8.0.32.jar             # 项目信息和依赖管理
