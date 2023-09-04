@@ -1,0 +1,10 @@
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (1, '蒙牛牛奶', '蒙牛集团', '2023-09-03', '食品', 4.00, 6.00, 800);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (2, '蒙牛牛奶', '蒙牛集团', '2023-09-01', '食品', 1.00, 2.50, 7000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (3, '卫龙辣条', '卫龙集团', '2023-06-09', '食品', 1.50, 4.00, 20000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (4, '晨光水性笔', '晨光集团', '2022-09-13', '文具', 1.30, 2.50, 15000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (5, '蓝牙耳机', '小米集团', '2022-01-01', '电子产品', 50.00, 99.00, 5000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (6, '华为mate p50', '华为集团', '2022-06-05', '电子产品', 5000.00, 6999.00, 1000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (7, '尔木萄粉扑', '尔木萄集团', '2023-08-06', '化妆品', 3.00, 10.00, 10000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (8, '原木抽纸', '月半弯集团', '2023-08-07', '生活用品', 1.00, 4.00, 20000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (9, '洁丽雅毛巾', '洁丽雅集团', '2023-07-07', '生活用品', 3.00, 6.89, 20000);
+INSERT INTO shop_table.products (product_id, product_name, manufacturer, production_date, model, purchase_price, retail_price, quantity) VALUES (11, '充电器', '小米集团', '2021-05-06', '电器', 20.00, 50.00, 9000);

@@ -1,0 +1,9 @@
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (1, 'a', '111111', '111111@qq.com', '000000', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (2, 'b', '222222', '222222@qq.com', 'HQJcHajo', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (3, 'c', '333333', '333333@qq.com', '123c', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (4, 'd', '444444', '444444@qq.com', '123d', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (5, 'e', '555555', '555555@qq.com', '123e', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (6, 'f', '666666', '666666@qq.com', '123f', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (7, 'g', '777777', '777777@qq.com', '123g', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (9, 'i', '999999', '999999@qq.com', '000000', null, null, null);
+INSERT INTO shop_table.customers (customer_id, username, phone, email, password, membership_level, registration_date, total_spent) VALUES (11, '小许', '1452866', '1426876@qq.com', '124578963', null, null, null);
